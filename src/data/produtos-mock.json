@@ -1,0 +1,39 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Abacaxi",
+      "valor": 5.99,
+      "observacao": "Abacaxi doce",
+      "imagem": "./src/assets/imagens/abacaxi.png"
+    },
+    {
+      "id": 2,
+      "nome": "Banana",
+      "valor": 3.49,
+      "observacao": "Banana prata",
+      "imagem": "./src/assets/imagens/banana_prata.png"
+    },
+    {
+      "id": 3,
+      "nome": "Maçã",
+      "valor": 2.79,
+      "observacao": "Não é maçã verde",
+      "imagem": "./src/assets/imagens/maça.png"
+    },
+    {
+      "id": 4,
+      "nome": "Mamão",
+      "valor": 4.99,
+      "observacao": "Mamão papaya",
+      "imagem": "./src/assets/imagens/mamao.png"
+    },
+    {
+      "id": 5,
+      "nome": "Pera",
+      "valor": 2.29,
+      "observacao": "Pera verde",
+      "imagem": "./src/assets/imagens/pera.png"
+    }
+  ]
+}
